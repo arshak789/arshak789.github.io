@@ -1,2 +1,2 @@
-# arshak789.github.io
-мой первый сайт
+Arshak Pask
+моя домашняя работа
